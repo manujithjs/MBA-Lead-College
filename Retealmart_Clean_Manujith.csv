@@ -1,0 +1,121 @@
+Invoice_ID,Order_Date,Ship_Date,Region,City,Category,Customer_Segment,Salesperson,Quantity,Revenue,Discount,Profit,Customer_Rating
+INV001,21-05-2025,23-05-2025,North,Delhi,Grocery,Consumer,Anita,2,45348,20,1205.46,4.2
+INV002,17-02-2025,19-02-2025,North,Delhi,Grocery,Home Office,Joseph,1,37781,5,8626.5,4.3
+INV003,18-08-2025,23-08-2025,West,Mumbai,Clothing,Consumer,Meera,7,23298,10,2014.02,3.4
+INV004,17-02-2025,21-02-2025,East,Kolkata,Electronics,Corporate,Rahul,10,18335,0,8788.14,3.9
+INV005,10-02-2025,15-02-2025,North,Chandigarh,Clothing,Home Office,Joseph,6,38837,5,8491.32,3.1
+INV005,10-02-2025,15-02-2025,North,Chandigarh,Clothing,Home Office,Joseph,6,38837,5,8491.32,3.1
+INV007,17-05-2025,23-05-2025,South,Bengaluru,Electronics,Home Office,Anita,-2,36005,5,2107.44,3.9
+INV008,19-12-2025,24-12-2025,East,Patna,Grocery,Home Office,Rahul,1,16010,0,3901.14,3.9
+INV009,18-10-2025,24-10-2025,North,Delhi,Clothing,Consumer,Anita,8,26928,15,1865.34,3.5
+INV010,15-10-2025,20-10-2025,South,Bengaluru,Clothing,Home Office,Joseph,7,39242,15,4450.14,3.4
+INV011,10-09-2025,11-09-2025,South,Bengaluru,Electronics,Consumer,Meera,3,45596,15,7215.48,3.1
+INV012,28-08-2025,02-09-2025,West,Pune,Clothing,Home Office,Arun,2,45676,20,3327.48,4.5
+INV013,31-05-2025,04-06-2025,East,Kolkata,Grocery,Corporate,Arun,5,33806,5,6168.78,4.8
+INV014,17-09-2025,22-09-2025,East,Patna,Grocery,Consumer,Rahul,3,36348,20,186.66,4.2
+INV015,27-02-2025,02-03-2025,West,Mumbai,Clothing,Consumer,Arun,4,38182,0,1190.34,4.5
+INV016,06-03-2025,08-03-2025,North,KOCHI,Home,Home Office,Meera,5,35581,20,5171.4,4.9
+INV017,09-06-2025,13-06-2025,South,Bengaluru,Clothing,Corporate,Joseph,8,8930,5,2830.5,3.9
+INV018,11-10-2025,13-10-2025,North,Jaipur,Sports,Consumer,Arun,2,47389,0,2880.54,3.1
+INV019,06-02-2025,11-02-2025,North,Chandigarh,Grocery,Corporate,Anita,8,15040,20,1740.78,4.4
+INV020,31-08-2025,07-09-2025,West,Mumbai,Home,Consumer,Arun,2,44187,15,4359.42,3.8
+INV021,28-01-2025,03-02-2025,West,Pune,Electronics,Consumer,Sneha,6,8161,5,2440.08,3.4
+INV022,05-08-2025,07-08-2025,West,Mumbai,Clothing,Corporate,Meera,2,30041,20,1334.88,3.1
+INV023,02-05-2025,04-05-2025,North,Delhi,Home,Corporate,Sneha,4,27282,0,2122.02,3.8
+INV024,21-08-2025,24-08-2025,West,Ahmedabad,Home,Home Office,Anita,9,44376,15,2005.92,3.4
+INV025,24-10-2025,30-10-2025,South,Kochi,Sports,Consumer,Anita,6,4746,0,7071.12,4
+INV025,24-10-2025,30-10-2025,South,Kochi,Sports,Consumer,Anita,6,4746,0,7071.12,4
+INV027,01-11-2025,02-11-2025,South,Bengaluru,Sports,Consumer,Sneha,10,38042,20,3911.94,4.9
+INV028,10-06-2025,12-06-2025,South,Bengaluru,Clothing,Corporate,Meera,5,30964,10,1035.72,3
+INV029,03-10-2025,05-10-2025,North,Delhi,Sports,Corporate,Meera,6,5508,5,4539.06,3.6
+INV030,27-12-2025,30-12-2025,West,Pune,Sports,Home Office,Joseph,1,44769,20,3711.6,4.9
+INV031,16-05-2025,17-05-2025,North,Delhi,Electronics,Home Office,Joseph,3,18848,10,7314.84,3.4
+INV032,18-12-2025,24-12-2025,East,Kolkata,Clothing,Home Office,Sneha,5,4329,0,7662.24,3.8
+INV033,02-01-2025,05-01-2025,East,Kolkata,Grocery,Home Office,Rahul,3,49577,15,6687.72,4.4
+INV034,08-02-2025,14-02-2025,North,Delhi,Grocery,Home Office,Arun,6,39175,20,1926.9,3.9
+INV035,06-07-2025,13-07-2025,North,Chandigarh,Electronics,Corporate,Meera,4,44708,0,4352.04,4.6
+INV036,21-03-2025,23-03-2025,West,Pune,Grocery,Consumer,Sneha,1,12754,10,5036.76,4.6
+INV037,23-03-2025,30-03-2025,South,Chennai,Electronics,Corporate,Arun,8,15577,5,5609.88,3.7
+INV038,13-01-2025,19-01-2025,South,Kochi,Grocery,Corporate,Rahul,5,5549,10,4322.16,4.3
+INV039,02-10-2025,05-10-2025,West,Pune,Electronics,Consumer,Rahul,3,39049,10,631.26,3.2
+INV040,10-06-2025,14-06-2025,West,Ahmedabad,Sports,Home Office,Arun,7,38787,5,3184.74,3.1
+INV041,24-09-2025,01-10-2025,West,Mumbai,Sports,Home Office,Anita,4,24869,15,1005.3,4.9
+INV042,10-06-2025,16-06-2025,East,Patna,Electronics,Home Office,Rahul,9,21269,15,4027.68,3.8
+INV043,07-03-2025,09-03-2025,East,Patna,Home,Home Office,,3,41338,20,3730.14,3.8
+INV044,27-05-2025,29-05-2025,North,Chandigarh,Home,Home Office,Joseph,6,31473,15,5395.86,4.4
+INV045,28-03-2025,03-04-2025,West,Pune,Electronics,Corporate,Joseph,10,22966,0,2950.56,4.3
+INV046,17-03-2025,18-03-2025,South,MUMBAI,Electronics,Consumer,Sneha,10,5772,15,5068.8,4.8
+INV047,23-12-2025,27-12-2025,South,Bengaluru,Home,Corporate,Meera,3,43995,0,1437.3,4.6
+INV048,23-12-2025,28-12-2025,South,Kochi,Home,Consumer,Joseph,4,8953,15,1752.84,3.9
+INV049,10-11-2025,17-11-2025,East,Bhubaneswar,Sports,Corporate,Joseph,8,11430,15,5489.1,3.5
+INV050,22-05-2025,29-05-2025,South,Bengaluru,Sports,Corporate,Anita,4,18996,15,1093.86,4.4
+INV051,21-06-2025,24-06-2025,South,Chennai,Sports,Consumer,Meera,3,16155,15,8366.04,3.3
+INV052,01-08-2025,05-08-2025,South,Kochi,Clothing,Home Office,Sneha,7,5080,5,5136.12,3.8
+INV053,14-07-2025,18-07-2025,North,delhi ,Electronics,Corporate,Rahul,7,28460,20,8998.02,4.5
+INV054,23-04-2025,26-04-2025,South,Chennai,Home,Corporate,Arun,7,23028,15,8722.62,3.3
+INV055,15-11-2025,20-11-2025,West,Mumbai,Electronics,Corporate,Joseph,10,250000,0,40000,4.3
+INV056,04-04-2025,05-04-2025,South,Chennai,Clothing,Corporate,Rahul,4,30799,10,4161.24,4.5
+INV057,04-08-2025,07-08-2025,West,Ahmedabad,Electronics,Corporate,Arun,9,4413,10,2824.92,4.3
+INV058,07-05-2025,09-05-2025,North,Delhi,Electronics,Home Office,Meera,4,9272,15,8077.14,3.2
+INV059,25-12-2025,28-12-2025,South,Chennai,Clothing,Consumer,Joseph,10,48078,0,2111.76,4.9
+INV060,14-01-2025,17-01-2025,North,Jaipur,Sports,Home Office,Sneha,7,47859,5,1076.4,4.2
+INV061,23-12-2025,30-12-2025,South,Kochi,Clothing,Home Office,Joseph,2,38088,0,4275.72,4.1
+INV062,17-09-2025,23-09-2025,East,Kolkata,Clothing,Consumer,Sneha,8,7916,15,4452.48,4.3
+INV063,20-03-2025,24-03-2025,West,Pune,Grocery,Home Office,Joseph,5,41364,20,5883.48,3.9
+INV064,06-05-2025,13-05-2025,East,Bhubaneswar,Electronics,Corporate,Sneha,4,31455,20,7379.64,4.3
+INV065,11-09-2025,18-09-2025,East,Kolkata,Clothing,Consumer,Sneha,4,24253,10,4194.72,3.6
+INV066,06-01-2025,11-01-2025,East,Patna,Grocery,Consumer,Meera,7,33019,20,3014.82,4.4
+INV067,09-01-2025,10-01-2025,West,Ahmedabad,Clothing,Consumer,Sneha,4,21067,20,4533.12,3.9
+INV068,09-10-2025,12-10-2025,East,Bhubaneswar,Clothing,Home Office,Sneha,5,21094,10,2899.44,3.2
+INV069,03-03-2025,09-03-2025,South,Chennai,Sports,Home Office,Meera,4,15180,15,3441.6,4.4
+INV070,10-04-2025,13-04-2025,East,Kolkata,Grocery,Corporate,Meera,5,1927,20,1673.1,3.5
+INV071,30-05-2025,05-06-2025,North,Jaipur,Grocery,Home Office,Sneha,2,1803,20,3534.12,3.9
+INV072,05-04-2025,06-04-2025,West,Ahmedabad,Clothing,Corporate,,2,27260,15,1053.9,3.9
+INV073,18-03-2025,25-03-2025,North,Delhi,Sports,Corporate,Arun,4,8762,20,5089.32,4.2
+INV074,14-07-2025,18-07-2025,South,Bengaluru,Home,Corporate,Joseph,7,21013,20,7505.82,3.1
+INV075,17-11-2025,19-11-2025,North,Delhi,Clothing,Home Office,Arun,3,16719,5,6691.5,3.2
+INV075,17-11-2025,19-11-2025,North,Delhi,Clothing,Home Office,Arun,3,16719,5,6691.5,3.2
+INV077,18-12-2025,20-12-2025,West,Mumbai,Clothing,Home Office,Joseph,4,28861,0,6603.84,3.4
+INV078,14-03-2025,15-03-2025,South,Chennai,Electronics,Consumer,Rahul,10,38303,10,5360.4,3.2
+INV079,26-07-2025,29-07-2025,East,Patna,Sports,Home Office,Sneha,8,6271,20,650.16,4.8
+INV080,09-05-2025,10-05-2025,East,Patna,Electronics,Consumer,Anita,10,39477,0,8110.44,4.6
+INV081,29-08-2025,03-09-2025,North,Delhi,Home,Corporate,Meera,10,29566,15,1256.22,3.9
+INV082,14-06-2025,20-06-2025,West,Ahmedabad,Electronics,Consumer,Rahul,7,46460,15,3579.84,4.3
+INV083,19-01-2025,23-01-2025,West,Pune,Electronics,Corporate,Rahul,6,8597,15,6250.32,4.6
+INV084,05-10-2025,09-10-2025,North,Jaipur,Home,Consumer,Meera,9,24709,20,6060.42,4.3
+INV085,17-05-2025,22-05-2025,North,Delhi,Grocery,Corporate,Sneha,8,8957,0,7612.02,4.2
+INV086,23-03-2025,26-03-2025,South, kochi ,Sports,Consumer,Joseph,7,7108,5,1518.3,3.9
+INV087,20-03-2025,24-03-2025,North,Jaipur,Clothing,Home Office,Anita,5,28229,15,5750.46,3.5
+INV088,08-04-2025,13-04-2025,South,Chennai,Sports,Home Office,Meera,2,19104,15,4189.32,4.9
+INV089,25-05-2025,31-05-2025,East,Kolkata,Clothing,Home Office,Joseph,8,10738,15,6533.28,4
+INV090,06-10-2025,10-10-2025,East,Patna,Home,Corporate,Meera,4,38473,15,2935.08,4.7
+INV091,12-06-2025,18-06-2025,West,Mumbai,Home,Home Office,Sneha,7,44495,5,6022.98,4.9
+INV092,30-10-2025,02-11-2025,South,Bengaluru,Electronics,Corporate,Arun,9,30945,0,8702.28,3.3
+INV093,29-08-2025,05-09-2025,South,Kochi,Clothing,Corporate,Joseph,-2,43587,0,4055.76,4.7
+INV094,17-11-2025,23-11-2025,West,Ahmedabad,Home,Home Office,Arun,10,5484,5,7625.34,4.4
+INV095,16-02-2025,20-02-2025,East,Kolkata,Electronics,Home Office,Anita,2,30076,5,8366.76,3.6
+INV096,16-06-2025,23-06-2025,North,Delhi,Electronics,Corporate,Rahul,6,29225,5,3060.54,4.1
+INV097,31-03-2025,01-04-2025,South,kolkata ,Sports,Corporate,Joseph,4,33615,20,1868.22,3.5
+INV098,11-05-2025,17-05-2025,East,Bhubaneswar,Electronics,Corporate,Rahul,9,11353,0,5390.82,4.9
+INV099,06-08-2025,12-08-2025,East,Patna,Clothing,Corporate,Rahul,4,26211,15,1438.02,3.5
+INV100,01-06-2025,07-06-2025,East,Patna,Clothing,Consumer,Anita,7,18988,0,6855.84,4.7
+INV101,12-09-2025,19-09-2025,North,Jaipur,Clothing,Consumer,Joseph,6,15352,5,7504.2,3.5
+INV102,19-02-2025,25-02-2025,South,Bengaluru,Electronics,Corporate,Sneha,1,38982,10,8819.1,3.3
+INV103,01-08-2025,03-08-2025,East,Bhubaneswar,Grocery,Consumer,Joseph,6,35789,20,3394.8,4.7
+INV104,01-06-2025,07-06-2025,East,Bhubaneswar,Clothing,Consumer,Sneha,2,10224,5,8158.14,3.9
+INV105,07-07-2025,08-07-2025,West,Pune,Home,Consumer,Rahul,9,9099,15,4527.9,4.3
+INV106,15-07-2025,22-07-2025,East,Patna,Clothing,Consumer,Anita,4,31898,0,7488.36,4.8
+INV107,24-04-2025,30-04-2025,East,Patna,Electronics,Home Office,Sneha,5,43548,15,1556.28,3.3
+INV108,10-09-2025,11-09-2025,North,Chandigarh,Electronics,Consumer,Joseph,3,26470,15,4556.52,4.3
+INV109,21-03-2025,25-03-2025,West,Pune,Electronics,Corporate,Joseph,7,19333,0,8322.84,3.7
+INV110,01-05-2025,08-05-2025,West,Ahmedabad,Clothing,Consumer,Anita,6,36682,10,894.24,3.8
+INV111,21-08-2025,22-08-2025,South,Kochi,Grocery,Home Office,Anita,10,2399,0,4114.08,3.5
+INV112,16-04-2025,17-04-2025,South, bengaluru,Sports,Consumer,Joseph,4,250000,10,40000,4.6
+INV113,16-03-2025,18-03-2025,North,Chandigarh,Sports,Corporate,Meera,2,44323,0,1734.66,3
+INV114,15-06-2025,16-06-2025,South,Bengaluru,Grocery,Corporate,Arun,3,49609,15,6385.86,3.2
+INV115,18-08-2025,25-08-2025,North,Chandigarh,Clothing,Home Office,Joseph,2,30622,20,2793.42,4.9
+INV116,04-12-2025,09-12-2025,North,Jaipur,Clothing,Corporate,Anita,1,4986,15,4917.6,3.9
+INV117,31-12-2025,04-01-2026,North,Chandigarh,Electronics,Consumer,Rahul,10,10721,0,1668.6,3.6
+INV118,02-11-2025,07-11-2025,East,Bhubaneswar,Clothing,Corporate,Joseph,10,250000,0,40000,3.2
+INV119,20-08-2025,22-08-2025,South,Chennai,Home,Corporate,Sneha,7,28262,0,3866.94,3.9
+INV120,20-03-2025,26-03-2025,East,Bhubaneswar,Home,Consumer,Arun,2,7109,15,1319.04,4.5
